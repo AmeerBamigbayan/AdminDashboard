@@ -1,4 +1,5 @@
 # AdminDashboard
+This is a website admin dashboard where website owners/administrators can get analytics and reports of sales, pageviews, traffic and visitors on their websites
 
 View Site: https://admin-dashboard-by-ameer.netlify.app/
 
